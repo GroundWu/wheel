@@ -1,0 +1,2 @@
+需要安装flask包：cmd运行输入 pip install flask进行安装即可
+运行程序：python run.py

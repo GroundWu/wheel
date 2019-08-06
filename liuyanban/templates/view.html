@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>查看留言</title>
+</head>
+<body>
+序号 &nbsp 姓名 &nbsp 留言 &nbsp 邮箱 &nbsp 时间
+<br>
+{% for i in mess %}
+{{i[0]}} &nbsp {{i[1]}} &nbsp {{i[2]}} &nbsp {{i[3]}} &nbsp {{i[4]}}<br>
+{% endfor %}
+</body>
+</html>
