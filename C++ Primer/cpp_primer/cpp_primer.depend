@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1565759374 source:c:\users\wgx\desktop\wheel\c++ primer\cpp_primer\main.cpp
-	<iostream>
-	"string_test.h"
-
-1565761065 c:\users\wgx\desktop\wheel\c++ primer\cpp_primer\string_test.h
-	<string>
-	<cctype>
-
