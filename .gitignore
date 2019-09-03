@@ -13,3 +13,10 @@ Servers/
 .vs
 # pycharm #
 __pycache__/
+# codeblock #
+bin/
+obj/
+*.gch
+*.cbp
+*.depend
+*.layout
